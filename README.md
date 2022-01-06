@@ -1,4 +1,4 @@
-# Assignment 4: Memory Management
+# Memory Management 
 
 <b>Note: When explaining the algorithm I will only include code I added to the skeleton code.</b>
 ## FIFO (First In First Out) Replacement Scheme
